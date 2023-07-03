@@ -12,9 +12,9 @@ kernelspec:
 # Cover Letter
 
 ```{epigraph}
-The symbol of all relationships among [rational] men, the moral symbol of respect for human beings, is the trader. We, who live by values, not by loot, are traders, both in matter and in spirit. A trader is a man who earns what he gets and does not give or take the undeserved.
+_The symbol of all relationships among [rational] men, the moral symbol of respect for human beings, is the trader. We, who live by values, not by loot, are traders, both in matter and in spirit. A trader is a man who earns what he gets and does not give or take the undeserved._
 
--- Ayn Rand
+-- _Ayn Rand_
 ```
 
 Dear Sir or Madam
