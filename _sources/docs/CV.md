@@ -137,7 +137,7 @@ MSc Thesis: Convergence towards equilibrium in an agent-based transport simulati
 +++
 
 (bsc)=
-### B.Eng Transportation & Logistics
+### B.Eng Transportation & Logistics (UFSC, Brazil)
 
 +++
 
@@ -154,7 +154,7 @@ Graduation thesis: Development of a MATSim transport model for the city of Joinv
 +++
 
 (sbb2)=
-### Transport Modelling at SBB
+### Transport Modelling at SBB (Bern)
 
 +++
 
@@ -180,7 +180,7 @@ Analytics/Other:
 +++
 
 (sbb1)=
-### Internship & MSc Thesis at SBB
+### Internship & MSc Thesis at SBB (Bern)
 
 +++
 
@@ -190,8 +190,19 @@ Note: writing my MSc Thesis was part of my internship at SBB. [⤣](chart)
 
 +++
 
+(ase)=
+### Internship Modeling and Simulation at ASE AG (Zurich)
+
++++
+
+Worked on the development of a MATSim model for a multinational agglomeration. 
+
+My tasks involved automation in Java, data analysis including pre- and post-processing as well as support for model calibration. [⤣](chart)
+
++++
+
 (hiwi)=
-### Student Research Assistant
+### Student Research Assistant at IVT-ETH (Zurich)
 
 +++
 
@@ -200,7 +211,7 @@ Data analysis and preparation for the development of multi-agent transport model
 +++
 
 (ippuj)=
-### Internship in Geographical Statistics
+### Internship in Geographical Statistics at the municipal planning authority (Joinville, Brazil)
 
 +++
 
