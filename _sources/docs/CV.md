@@ -56,7 +56,7 @@ def get_data():
 :tags: [remove-cell]
 
 def get_chart(data):
-    domain = ['education', 'work', 'extra-curricular activities & hobbies', 'family', 'productivity']
+    domain = ['education', 'work', 'extra-curricular activities & hobbies', 'family', 'overall productivity']
     range_ = ['#1b9e77', '#8e6c87', '#a76854', '#d69e09', '#666666']
 
     selector = alt.selection_point(fields=['variable'], on='mouseover', nearest=False)
@@ -123,9 +123,7 @@ get_chart(data)
 
 +++
 
-Title final project: Network-wide estimation of train passenger counts using machine learning
-
-([Official page](https://www.unibe.ch/continuing_education_programs/cas_in_applied_data_science/index_eng.html)) [⤣](chart)
+Title final project: Network-wide estimation of train passenger counts using machine learning. [⤣](chart)
 
 +++
 
