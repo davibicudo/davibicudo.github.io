@@ -11,20 +11,16 @@ kernelspec:
 
 # Cover Letter
 
-> \"Money demands that you sell, not your weakness to men’s stupidity, 
-> but your talent to their reason; it demands that you buy, not the 
-> shoddiest they offer, but the best that your money can find. 
-> And when men live by trade–with reason, not force, as their final arbiter
-> –it is the best product that wins, the best performance, the man of 
-> best judgment and highest ability–and the degree of a man’s 
-> productiveness is the degree of his reward. 
-> This is the code of existence whose tool and symbol is money.\" 
-> -- Ayn Rand
+```{epigraph}
+The symbol of all relationships among [rational] men, the moral symbol of respect for human beings, is the trader. We, who live by values, not by loot, are traders, both in matter and in spirit. A trader is a man who earns what he gets and does not give or take the undeserved.
+
+-- Ayn Rand
+```
 
 Dear Sir or Madam
 
 As a skilled and experienced data science professional, I am writing to express my interest
-and demonstrate my motivation to fulfill the position as Data Scientist at Julius Bär. 
+and demonstrate my motivation to fulfill the position as Data Scientist at SMG. 
 After several years of experience working in interdisciplinary teams, with complex and data-intensive models, 
 I'm confident that I would prove a valuable addition to your team. 
 
@@ -34,11 +30,7 @@ Within this field I could gather valuable hands-on experience with all things da
 from gathering and processing it, to building, calibrating and analyzing complex simulations and statistical models,
 up to the invaluable activities around it such as automating workflows and configuring CI/CD and MLOps pipelines.
 
-In my latest project, I set up a model with the Gradient-Boosted Trees algorithm using
-the traditional Python data-science stack. In it, part of the model exploration phase involved 
-the use of interpretability methods such as the SHAP library. 
-In this project data I worked with data preparation and analysis with SQL and have 
-the experiments and models tracked using MLFlow. 
+From my experience with spatial and transport data, I could particularly benefit your analytics on real estate and vehicle sales platforms. The exploration of relationships with demographics (e.g. from the [Synthetic Population](https://www.swissubase.ch/en/catalogue/studies/13439/17244/datasets/1314/2143/overview)), points-of-interest (e.g. from [OpenStreetMap](https://www.openstreetmap.org/#map%253D8%252F46.825%252F8.224)) and accessibility to transport (e.g. from the [national transport model](https://zenodo.org/record/5700957)) could lead to new insights, potentially leading to a new spatial visualization dashboard and/or statistical spatial models. 
 
 Personally I enjoy working in teams and finding peers to exchange ideas and learn from. 
 You'll find me always motivated by complex problems and willing to take responsibility 
