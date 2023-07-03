@@ -12,7 +12,7 @@ kernelspec:
 # Cover Letter
 
 ```{epigraph}
-_The symbol of all relationships among [rational] men, the moral symbol of respect for human beings, is the trader. We, who live by values, not by loot, are traders, both in matter and in spirit. A trader is a man who earns what he gets and does not give or take the undeserved._
+_The symbol of all relationships among men, the moral symbol of respect for human beings, is the trader. We, who live by values, not by loot, are traders, both in matter and in spirit. A trader is a man who earns what he gets and does not give or take the undeserved._
 
 -- _Ayn Rand_
 ```
@@ -30,7 +30,7 @@ Within this field I could gather valuable hands-on experience with all things da
 from gathering and processing it, to building, calibrating and analyzing complex simulations and statistical models,
 up to the invaluable activities around it such as automating workflows and configuring CI/CD and MLOps pipelines.
 
-From my experience with spatial and transport data, I could particularly benefit your analytics on real estate and vehicle sales platforms. The exploration of relationships with demographics (e.g. from the [Synthetic Population](https://www.swissubase.ch/en/catalogue/studies/13439/17244/datasets/1314/2143/overview)), points-of-interest (e.g. from [OpenStreetMap](https://www.openstreetmap.org/#map%253D8%252F46.825%252F8.224)) and accessibility to transport (e.g. from the [national transport model](https://zenodo.org/record/5700957)) could lead to new insights, potentially leading to a new spatial visualization dashboard and/or statistical spatial models. 
+From my experience with spatial and transport data, I could particularly benefit your analytics on real estate and vehicle sales platforms. The exploration of relationships with demographics (e.g. from the [Synthetic Population](https://www.swissubase.ch/en/catalogue/studies/13439/17244/datasets/1314/2143/overview)), points-of-interest (e.g. from [OpenStreetMap](https://www.openstreetmap.org/#map%253D8%252F46.825%252F8.224)) and accessibility to transport (e.g. from the [national transport model](https://zenodo.org/record/5700957)) could lead to new insights, potentially leading to new (spatial) visualizations and/or statistical (spatial) models. 
 
 Personally I enjoy working in teams and finding peers to exchange ideas and learn from. 
 You'll find me always motivated by complex problems and willing to take responsibility 

@@ -184,7 +184,7 @@ Analytics/Other:
 
 +++
 
-Statistical analysis of an agent-based transport model, particularly in respect to stochastic convergence and results variability (hypothesis testing).
+Statistical analysis of an agent-based transport model, particularly in respect to stochastic convergence and results variability.
 
 Note: writing my MSc Thesis was part of my internship at SBB. [⤣](chart)
 
